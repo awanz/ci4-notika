@@ -2,12 +2,19 @@
 
 ## Progress
 Dashboard [Done]
+
 Email [NOT YET]
+
 Interface [NOT YET]
+
 Charts [NOT YET]
+
 Tables [NOT YET]
+
 Forms [NOT YET]
+
 App views [NOT YET]
+
 Pages [NOT YET]
 
 ## What is CodeIgniter?
